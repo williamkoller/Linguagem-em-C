@@ -1,2 +1,2 @@
-# Linguagem-em-C
+# Alguns algoritmos que desenvolvi na faculdade
 
